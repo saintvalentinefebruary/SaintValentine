@@ -1,2 +1,2 @@
 function Input(){
-    window.location = "pidoraska.html";}
+    window.location = "firsttask.html";}
