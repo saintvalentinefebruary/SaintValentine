@@ -127,6 +127,9 @@
     margin-right: auto;
 }
 
+.player{
+    width:200px;
+}
 
 img {
     top: 0;
@@ -137,3 +140,5 @@ img {
     width: 100vw;
     z-index: -1;
 }
+
+
