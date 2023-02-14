@@ -1,5 +1,5 @@
 function Input() {
-    window.location = ".audiotask.html";
+    window.location = "audiotask.html";
 }
 
 // КУДА? Перебросит нас скрипт
