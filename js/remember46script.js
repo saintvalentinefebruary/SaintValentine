@@ -1,2 +1,2 @@
 function Input(){
-    window.location = "mono.html";}
+    window.location = "monotask.html";}

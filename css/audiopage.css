@@ -62,7 +62,7 @@
 }
 
 .inner {
-    background-color: rgba(26, 26, 26, 0.7);
+    background-color: rgb(210, 184, 171);
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 1%;
@@ -94,7 +94,8 @@
 
 .putdata{
     outline: 3px;
-    background: rgba(255, 255, 255, 1);
+    color: #ffffff;
+    background: rgb(55, 41, 46);
     border: 20px orange;
     margin: 0 0 15px;
     padding-bottom: 15px;
@@ -107,6 +108,7 @@
     font-family: InterBold;
     width: 80%;
 }
+.input::placeholder {color:#ffffff;}
 
 .buttonent {
     font-family: InterBold;
