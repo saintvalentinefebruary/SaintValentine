@@ -3,7 +3,7 @@ function Input(){
     var data1 = document.getElementsByName("inputdata1")[0].value;
     data1 = data1.toUpperCase();
 
-    if (data1 == "АКУЛОСЬМИНОГ" || data == "АКУЛОСМИНОГ") {
+    if (data1 == "АКУЛОСЬМИНОГ" || data1 == "АКУЛОСМИНОГ") {
         login_ok=true;
         window.location = "relax.html";}             // КУДА? Перебросит нас скрипт
     if (login_ok == false) {
