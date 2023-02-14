@@ -7,6 +7,6 @@ function Input(){
 
     if (data1 == "YULIANA" && data2 == "BEEPTOBEEP0907") {
         login_ok=true;
-        window.location = "prize2.html";}             // КУДА? Перебросит нас скрипт
+        window.location = "Sercan.html";}             // КУДА? Перебросит нас скрипт
     if (login_ok == false) {
         alert("Повнимательнее)");}}     // КОНЕЦ ПАРОЛЬНОГО ВХОДА
