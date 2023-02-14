@@ -128,7 +128,8 @@
 }
 
 .player{
-    width:200px;
+    box-sizing: border-box;
+    width:80%;
 }
 
 img {
