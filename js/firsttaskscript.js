@@ -7,4 +7,4 @@ function Input(){
         login_ok=true;
         window.location = "graph1.html";}             // КУДА? Перебросит нас скрипт
     if (login_ok == false) {
-        alert("Повнимательнее)");}}     // КОНЕЦ ПАРОЛЬНОГО ВХОДА
+        alert("Не только так");}}     // КОНЕЦ ПАРОЛЬНОГО ВХОДА

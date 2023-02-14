@@ -5,7 +5,7 @@ function Input(){
     var data2 = document.getElementsByName("inputdata2")[0].value;
     data2 = data2.toUpperCase();
 
-    if (data1 == "YULIANA" && data2 == "BEEPTOBEEP") {
+    if (data1 == "YULIANA" && data2 == "BEEPTOBEEP0907") {
         login_ok=true;
         window.location = "hello.html";}             // КУДА? Перебросит нас скрипт
     if (login_ok == false) {
