@@ -5,6 +5,6 @@ function Input(){
 
     if (data1 == "МИЛАШКЕР") {
         login_ok=true;
-        window.location = "4sisters.html";}             // КУДА? Перебросит нас скрипт
+        window.location = "prize3.html";}             // КУДА? Перебросит нас скрипт
     if (login_ok == false) {
         alert("Ну ты че бля");}}     // КОНЕЦ ПАРОЛЬНОГО ВХОДА
