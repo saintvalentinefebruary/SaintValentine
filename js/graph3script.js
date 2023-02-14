@@ -1,2 +1,2 @@
 function Input(){
-    window.location = "audiotaskscript.html";}
+    window.location = "prize3.js";}
