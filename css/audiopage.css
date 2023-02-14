@@ -70,6 +70,15 @@
     text-align: center;
 }
 
+.inner2 {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
 .title1 {
     color: white;
     font-family: InterBold;
