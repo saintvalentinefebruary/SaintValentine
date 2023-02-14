@@ -65,10 +65,11 @@
 
 .inner {
     background: rgb(2,0,36);
-    background: linear-gradient(70deg, rgb(21, 23, 44) 0%, rgb(8, 61, 112) 35%, rgb(99, 12, 31) 100%);
+    background: linear-gradient(-50deg, rgb(28, 32, 70) 0%, rgb(8, 61, 112) 20%, rgb(114, 12, 34) 100%);
+    opacity: 85%;
     border-radius: 50px;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
     padding-top: 1%;
     padding-bottom: 5%;
     text-align: center;
